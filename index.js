@@ -19,3 +19,8 @@ cloudinary.uploader.upload('pizza.jpg', { public_id : '123',tags: 'basic_sample'
   .catch(function (err) {
     if (err) { console.warn(err); }
   });
+
+
+/*CLOUDINARY_CLOUD_NAME = dtczose0x1
+CLOUDINARY_API_KEY = 9261181284612982
+CLOUDINARY_API_SECRET = DDhNjrIcs2ATZG1Yfqa3CVHqe4s3*/
